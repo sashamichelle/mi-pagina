@@ -1,0 +1,35 @@
+@media (max-width: 920px) and (min-width:100px){
+  nav{
+    display: none;
+ }
+
+ .col-3 h1{
+	padding-left:50px;
+	padding-top: 26px;
+  }
+
+  .col-3 i{
+  	    padding-left: 195px;
+  	    font-size: 45px;
+  	    color:#ffffff;
+  	    padding-top: 15px;
+  }
+ .big h1{
+ 	font-size: 25px;
+ }
+
+ .big h2{
+ 	font-size: 50px;
+ }
+
+.row .col-7 h3{
+	    font-size: 24px;
+text-align: center;
+}
+}
+
+@media (max-width:1366px) and (min-width: 920px){
+	i {
+color: #343A40;
+	}
+}
