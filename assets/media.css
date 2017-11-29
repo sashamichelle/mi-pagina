@@ -3,18 +3,22 @@
 	max-width: 100%;
 	flex:none;
 }
+
+header{
+	height: 90px;
+}
   nav{
     display: none;
  }
 
  .col-3 h1{
 	padding-top: 26px;
-	text-align: right;
-	max-width: 15%;
+	text-align:left;
+    max-width: 30%;
   }
 
   .col-3 i{
-  	    padding-left: 195px;
+  	    padding-left: 136px;;
   	    font-size: 45px;
   	    color:#ffffff;
   	    padding-top: 15px;
@@ -26,7 +30,7 @@
  }
 
  .big h2{
- 	font-size: 50px;
+  font-size: 25px;
  }
 
 .row .col-7 h3{
